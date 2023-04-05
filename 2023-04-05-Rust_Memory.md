@@ -1,4 +1,4 @@
-## Rust Study Notes
+## Rust Memory (Ownership, Borrow, Lifetimes)
 
 ### Ownership
 
