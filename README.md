@@ -1,6 +1,6 @@
-# Welcome to my Rust blog!
+# Welcome to my Lab!
 
-Hi there, I'm Eshan Shafeeq, and this is my blog where I write about my discoveries. Thanks for stopping by!
+Hi there, I'm Eshan Shafeeq, and this is where I write about all my discoveries. Thanks for stopping by!
 
 ## Articles
 
